@@ -1,0 +1,2 @@
+# quiz
+Simole javascript quiz
