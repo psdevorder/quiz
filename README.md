@@ -1,2 +1,2 @@
 # quiz
-Simole javascript quiz
+Simple javascript quiz
